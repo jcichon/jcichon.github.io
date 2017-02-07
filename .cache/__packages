@@ -1,0 +1,15 @@
+base
+methods
+datasets
+utils
+grDevices
+graphics
+stats
+dataRetrieval
+ggplot2
+plotly
+tidyr
+devtools
+slidify
+knitr
+webshot
